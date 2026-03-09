@@ -75,16 +75,16 @@ A **programming e-learning platform** where users can:
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME\&show_icons=true\&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=aalex23\&show_icons=true\&theme=tokyonight)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME\&layout=compact\&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aalex23\&layout=compact\&theme=tokyonight)
 
 ---
 
 ## 📫 Contact Me
 
-* GitHub: https://github.com/YOUR_USERNAME
-* Email: [your.email@example.com](mailto:your.email@example.com)
+* GitHub: https://github.com/aalex23
+* Email: [akretche.ahmed1@gmail.com](mailto:akretche.ahmed1@gmail.com)
 
 ---
 
